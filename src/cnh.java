@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cnh {
+public class CNH {
 	
 	public static void habilitacao(int idade) {
 		if (idade >= 18) {
